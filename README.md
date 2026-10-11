@@ -160,7 +160,7 @@ ClippyWeb.init();
 The repo includes a Next.js demo app with several test pages (auth, table, dashboard, checkout).
 
 ```bash
-git clone https://github.com/JigsawStack/translation-widget.git
+git clone https://github.com/InterfazeAI/clippy-web.git
 cd clippy-web
 cp .env.example .env
 # Add your NEXT_PUBLIC_INTERFAZE_API_KEY to .env
